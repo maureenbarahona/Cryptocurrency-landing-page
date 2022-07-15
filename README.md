@@ -2,7 +2,7 @@
 
 ## ***\* This landing page is for educational purposes only \*\***
 
-## 🚀URL🚀 : https://concept-for-cryptocurrency-company.vercel.app/
+## 🚀URL🚀 : https://maureenbarahona.github.io/Cryptocurrency-landing-page/
 
 
 
